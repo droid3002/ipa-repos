@@ -1,7 +1,7 @@
 {
-  "name": "Ultimate IPA Repo Pack",
+  "name": "droid's IPA repo pack",
   "description": "droid's collecton of ipa file repos",
-  "iconURL": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/droid3002/ipa-repos/main/icon.png",
   "repos": [
     {
       "name": "ZeeJB IPA Repository",
