@@ -1,0 +1,27 @@
+{
+  "name": "Ultimate IPA Repo Pack",
+  "description": "droid's collecton of ipa file repos",
+  "iconURL": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/icon.png",
+  "repos": [
+    {
+      "name": "ZeeJB IPA Repository",
+      "uri": "https://ipa.zeejb.com",
+      "type": "apt"
+    },
+    {
+      "name": "Senumy IPA Repository",
+      "uri": "https://repo.senumy.com",
+      "type": "apt"
+    },
+    {
+      "name": "iExmo IPA Repository",
+      "uri": "https://iexmo.com/repo",
+      "type": "apt"
+    },
+    {
+      "name": "AppDB Repository",
+      "uri": "https://appdb.to/repo",
+      "type": "apt"
+    }
+  ]
+}
